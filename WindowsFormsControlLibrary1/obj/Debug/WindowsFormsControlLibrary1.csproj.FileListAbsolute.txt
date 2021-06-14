@@ -1,0 +1,9 @@
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_46_Watch_27.12.2016\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_51_Butt_19.01.2017\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_51_Butt_19.01.2017\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_51_Butt_19.01.2017\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojResolveAssemblyReference.cache
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_51_Butt_19.01.2017\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_51_Butt_19.01.2017\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
